@@ -1,13 +1,51 @@
 # Podcasts
 
-* [99% Invisible](http://example.com): desc
-* [Criminal: desc](http://example.com)
-* [Developer Tea:](http://example.com) desc
-* [Love & Radio](http://example.com): desc
-* [Presidents Are People](http://example.com) Too: desc
-* [Radiolab: desc](http://example.com)
-* [The Allusionist:](http://example.com) desc
-* [The Bike Shed](http://example.com): desc
-* [The Bowery Boys](http://example.com): desc
-* [This American Life](http://example.com): desc
-* [Twenty Thousand Hertz](http://example.com): desc
+## [99% Invisible](http://99percentinvisible.org/)
+
+It's about design. But that means everything.
+
+## [Criminal](http://thisiscriminal.com/)
+
+Offbeat stories about law. It's not morbid true crime.
+
+## [Developer Tea](https://spec.fm/podcasts/developer-tea)
+
+Non-tech specific developer show that is often more about thinking and feelings.
+
+## [Love & Radio](http://loveandradio.org/)
+
+VERY cool documentary-style audio with minimal host voiceover.
+
+## [Presidents Are People](https://itunes.apple.com/us/podcast/presidents-are-people-too/id1168237590?mt=2)
+
+Hosted by a former Daily Show head writer, and a historian. Great presidential
+anecdotes with modestly solid humor.
+
+## [Radiolab: desc](http://www.radiolab.org/series/podcasts/)
+
+Come on, you're not listening to this yet?
+
+## [The Allusionist:](http://www.theallusionist.org/)
+
+HILLARIOUS etymology podcast.
+
+## [The Bike Shed](http://bikeshed.fm/)
+
+Very good podcast hosted (mostly) by a pair of Thoughtbot and Shopify developers.
+
+## [The Bowery Boys](http://www.boweryboyshistory.com/)
+
+Endearing NYC history podcast.
+
+
+## [The Hilarious World of Depression](https://www.apmpodcasts.org/thwod/)
+
+Interviews with comedians about depression. The Andy Richter episode is great.
+
+## [This American Life](https://www.thisamericanlife.org/)
+
+Come on, you're not listening to this yet?
+
+## [Twenty Thousand Hertz](https://www.20k.org/)
+
+Awesome sound design podcast.
