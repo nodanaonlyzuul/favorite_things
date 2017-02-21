@@ -16,12 +16,12 @@ Non-tech specific developer show that is often more about thinking and feelings.
 
 VERY cool documentary-style audio with minimal host voiceover.
 
-## [Presidents Are People](https://itunes.apple.com/us/podcast/presidents-are-people-too/id1168237590?mt=2)
+## [Presidents Are People Too](https://itunes.apple.com/us/podcast/presidents-are-people-too/id1168237590?mt=2)
 
 Hosted by a former Daily Show head writer, and a historian. Great presidential
 anecdotes with modestly solid humor.
 
-## [Radiolab: desc](http://www.radiolab.org/series/podcasts/)
+## [Radiolab](http://www.radiolab.org/series/podcasts/)
 
 Come on, you're not listening to this yet?
 
