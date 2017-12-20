@@ -4,6 +4,8 @@
 * Bechamel
 * Catafalque
 * Concertina
+* Filigree
+* Funerary
 * Minaret
 * Pharmacokinetics
 * Planchette
