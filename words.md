@@ -3,6 +3,7 @@
 * Abattoir
 * Bechamel
 * Catafalque
+* Chiaroscuro
 * Concertina
 * Filigree
 * Funerary
