@@ -1,6 +1,7 @@
 # Words
 
 * Abattoir
+* Akimbo
 * Bechamel
 * Catafalque
 * Chiaroscuro
